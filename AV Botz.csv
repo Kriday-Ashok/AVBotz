@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","5V","","","","Battery:BatteryHolder_MPD_BC2AAPC_2xAA","~"
+"F2","1","Fuse","","","","Fuse:Fuse_0402_1005Metric_Pad0.77x0.64mm_HandSolder","~"
+"M1","1","Fan","","","","LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear","~"
+"Q2","1","NMOS","","","","Package_TO_SOT_THT:TO-220F-3_Vertical","https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+"RV2","1","10kΩ","","","","Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal","~"
+"TH2","1","10kΩ","","","","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
